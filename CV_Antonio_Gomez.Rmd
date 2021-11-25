@@ -1,0 +1,159 @@
+---
+title: "Antonio Gómez Gallego"
+author: "agomez"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: yes
+  rmarkdown::html_vignette: default
+---
+
+Aside
+================================================================================
+
+
+![Antonio Gómez Gallego](foto.jpeg){width=100%}
+
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> antoniogmzgallego@gmail.com
+- <i class="fa fa-github"></i> [github.com](https://github.com/antoniogmzstat/)
+- <i class="fab fa-linkedin-in"></i> [Linkedin](https://www.linkedin.com/in/antoniog%C3%B3mezgallego/)
+- <i class="fa fa-phone"></i> +34 691078295
+
+Capacidades {#skills}
+--------------------------------------------------------------------------------
+
+* <i class="fa fa-bar-chart"></i> Lenguajes de programación (R y Python)
+* <i class="fa fa-file-code-o"></i> Web (HTML, CSS, JavaScript. Shiny)
+* <i class="fa fa-database"></i> Bases de Datos (SQL y NoSQL)
+* <i class="fa fa-git-square"></i> Control de versiones (Git)
+* <i class="fa fa-cog"></i> Contenedores Docker
+* <i class="fa fa-globe"></i> Idiomas (Inglés, B1)
+
+
+Main
+================================================================================
+
+Antonio Gómez Gallego {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Apasionado por la ciencia de datos y el desarrollo web. Proactivo y siempre dispuesto a aprender tecnologías nuevas que me hagan avanzar, apostando siempre por la mejora continua.
+
+
+Experiencia profesional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist - Shiny Developer
+
+Grupo Petroprix & Hello Auto.
+
+Jaén, España
+
+Actualidad - Marzo 2021
+
+::: concise
+- Extracción de información en BBDD SQL y NoSQL.
+- Procesamiento de datos para presentación en Dashboard realizados con Shiny.
+- Dockerizacion de aplicaciones y despliegue.
+- Automatización de script en Python para consulta de APIs.
+- Realización de modelos de machine learning para predecir la potencia y valoración del vehículo en función de los - últimos dígitos del número de bastidor.
+- Realización de modelos de Pricing de Seguros de Coche.
+:::
+
+### Junior Data Scientist - Shiny Developer
+
+Quental Technologies - Banco Santander.
+
+Madrid, España
+
+Marzo 2021 - Diciembre 2019
+
+::: concise
+- Desarrollo de aplicaciones web orientadas al análisis de datos con librería Shiny de R, HTML5, CSS3 y JavaScript y despliegue en contenedores docker.
+- Aplicación de técnicas de limpieza de datos.
+- Ejecución de modelos de fuga de clientes y detección de fraude.
+- Desarrollo backend de cálculo de métricas para proyecto de riesgos en R.
+:::
+
+
+### Becario
+
+Banco Santander.
+
+Madrid, España
+
+Diciembre 2019 - Junio 2019
+
+::: concise
+- Tratamiento y consolidación de bases de datos con Excel.
+- Automatización de script en R para limpieza de bases de datos.
+:::
+
+### Beca de colaboración en Departamento de Estadística e Investigación Operativa
+
+Universidad de Jaén.
+
+Jaén, España
+
+Junio 2019 - Octubre 2018
+
+::: concise
+- Utilización de bases de datos públicas para proponer publicaciones en forma de noticia breve en la prensa provincial.
+- Todo el tratamiento se realizará en el software estadístico R y librería ggplot2.
+:::
+
+
+### Proyecto de Innovación Docente en Departamento de Estadística e Investigación Operativa.
+
+Universidad de Jaén.
+
+Jaén, España
+
+Mayo 2019 - Mayo 2018
+
+::: concise
+- Desarrollo de app en Shiny, HTML5, CSS3 y JavaScript para la asignatura de Estadística I del grado de ADE+Derecho.
+:::
+
+
+Formación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad de Granada
+
+Máster en Estadística Aplicada
+
+Online
+
+2021
+
+
+### Universidad Complutense de Madrid
+
+Máster en Tratamiento Estadístico-Computacional <br/> de la Información
+
+Madrid, España
+
+2019
+
+TFM: Desarrollo de OCR en Python para la lectura automática de albaranes de transporte para la Empresa Trucksters.
+
+### Universidad de Jaén
+
+Grado en Estadística y Empresa
+
+Jaén, España
+
+2019 - 2015
+
+TFG: Análisis de datos mediante Regresión de Poisson. Más concretamente se estudia el modelo de regresión de Poisson y se aplica a este modelo tratando explicar el comportamiento que tienen el número de bares, restaurantes y cafeterías en los municipios de la provincia de Jaén en función de otras covariables. 
+
+Premio Extraordinario Mejor Expediente de Promoción
+
+
+
