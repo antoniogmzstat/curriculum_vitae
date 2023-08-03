@@ -12,22 +12,21 @@ Aside
 ================================================================================
 
 
-![Antonio Gómez Gallego](foto.jpeg){width=100%}
+![Antonio Gómez Gallego](foto3.png){width=100%}
 
 
 Contacto {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> antoniogmzgallego@gmail.com
-- <i class="fa fa-github"></i> [github.com](https://github.com/antoniogmzstat/)
 - <i class="fab fa-linkedin-in"></i> [Linkedin](https://www.linkedin.com/in/antoniog%C3%B3mezgallego/)
 - <i class="fa fa-phone"></i> +34 691078295
 
 Capacidades {#skills}
 --------------------------------------------------------------------------------
 
-* <i class="fa fa-bar-chart"></i> Lenguajes de programación (R y Python)
-* <i class="fa fa-file-code-o"></i> Web (HTML, CSS, JavaScript. Shiny)
+* <i class="fa fa-bar-chart"></i> Lenguajes de programación (Python, R y JavaScript)
+* <i class="fa fa-file-code-o"></i> Web (HTML, CSS, Shiny, Django y Vue.js)
 * <i class="fa fa-database"></i> Bases de Datos (SQL y NoSQL)
 * <i class="fa fa-git-square"></i> Control de versiones (Git)
 * <i class="fa fa-cog"></i> Contenedores Docker
@@ -40,7 +39,7 @@ Main
 Antonio Gómez Gallego {#title}
 --------------------------------------------------------------------------------
 
-### Data Scientist
+### Software Developer
 
 Apasionado por la ciencia de datos y el desarrollo web. Proactivo y siempre dispuesto a aprender tecnologías nuevas que me hagan avanzar, apostando siempre por la mejora continua.
 
@@ -48,21 +47,70 @@ Apasionado por la ciencia de datos y el desarrollo web. Proactivo y siempre disp
 Experiencia profesional {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Software Developer
+
+reclamador.es
+
+España
+
+Actualidad - Octubre 2022
+
+::: concise
+- Romper monolito y extracción de sistema de facturación (ERP Navision) en un microservicio. 
+- Integración de monolito con nuevo microservicio (FastApi).
+- Mantenimiento y adición de nuevas features en el monolito en otros módulos del negocio (Django).
+- Integración con otros servicios de terceros como API del tiempo
+:::
+
+### Software Developer
+
+BeSoccer.
+
+Málaga, España
+
+Octubre 2022 - Marzo 2022
+
+::: concise
+- Desarrollo de API REST con Flask en Python.
+- Web Scraping con diferentes librerías de Python. BeautifulSoup y Selenium.
+- Desarrollo de proceso ETL para extracción de información de diferentes web, transformación a formato correcto e inserción en base de datos.
+- Consulta en base de datos SQL para posterior análisis.
+- Uso de librería pytest para realización de test en el proceso de despliegue de API mediante CD/CI. Uso de docker.
+- Desarrollo de Front que permite interactuar con API REST y visualización de resultados.
+:::
+
+### Software Developer
+
+Freelance.
+
+España
+
+Actualidad - Marzo 2021
+
+::: concise
+- Desarrollo de aplicación web con Shiny y JavaScript para monitoreo y visualización de datos de rendimiento agrícola.
+- Actualización de dicha aplicación web mediate framework Vue.js.
+- Aplicación web para consulta de diferentes criptomonedas.
+- Extracción de datos mediante web scraping de diferentes ecommerce.
+:::
+
+
 ### Data Scientist - Shiny Developer
 
 Grupo Petroprix & Hello Auto.
 
 Jaén, España
 
-Actualidad - Marzo 2021
+Junio 2023 - Marzo 2021
 
 ::: concise
 - Extracción de información en BBDD SQL y NoSQL.
 - Procesamiento de datos para presentación en Dashboard realizados con Shiny.
 - Dockerizacion de aplicaciones y despliegue.
 - Automatización de script en Python para consulta de APIs.
-- Realización de modelos de machine learning para predecir la potencia y valoración del vehículo en función de los - últimos dígitos del número de bastidor.
+- Realización de modelos de machine learning para predecir la potencia y valoración del vehículo en función de los últimos dígitos del número de bastidor.
 - Realización de modelos de Pricing de Seguros de Coche.
+- Jornada pacial desde marzo de 2022
 :::
 
 ### Junior Data Scientist - Shiny Developer
@@ -124,18 +172,9 @@ Mayo 2019 - Mayo 2018
 Formación {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Universidad de Granada
-
-Máster en Estadística Aplicada
-
-Online
-
-2021
-
-
 ### Universidad Complutense de Madrid
 
-Máster en Tratamiento Estadístico-Computacional <br/> de la Información
+Máster en Tratamiento Estadístico-Computacional <br/> de la Información (Pendiente finalizar)
 
 Madrid, España
 
