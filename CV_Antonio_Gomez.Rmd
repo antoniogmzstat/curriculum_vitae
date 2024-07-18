@@ -41,11 +41,22 @@ Antonio Gómez Gallego {#title}
 
 ### Software Developer
 
-Apasionado por la ciencia de datos y el desarrollo web. Proactivo y siempre dispuesto a aprender tecnologías nuevas que me hagan avanzar, apostando siempre por la mejora continua.
-
 
 Experiencia profesional {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Software Developer
+
+Alten - Wonnai
+
+España
+
+Actualidad - Diciembre 2023
+
+::: concise
+- Integración de APIs con terceros
+- Desarrollo de backend para el sector seguros
+:::
 
 ### Software Developer
 
@@ -53,7 +64,7 @@ reclamador.es
 
 España
 
-Actualidad - Octubre 2022
+Diciembre 2023 - Octubre 2022
 
 ::: concise
 - Romper monolito y extracción de sistema de facturación (ERP Navision) en un microservicio. 
@@ -78,22 +89,6 @@ Octubre 2022 - Marzo 2022
 - Uso de librería pytest para realización de test en el proceso de despliegue de API mediante CD/CI. Uso de docker.
 - Desarrollo de Front que permite interactuar con API REST y visualización de resultados.
 :::
-
-### Software Developer
-
-Freelance.
-
-España
-
-Actualidad - Marzo 2021
-
-::: concise
-- Desarrollo de aplicación web con Shiny y JavaScript para monitoreo y visualización de datos de rendimiento agrícola.
-- Actualización de dicha aplicación web mediate framework Vue.js.
-- Aplicación web para consulta de diferentes criptomonedas.
-- Extracción de datos mediante web scraping de diferentes ecommerce.
-:::
-
 
 ### Data Scientist - Shiny Developer
 
